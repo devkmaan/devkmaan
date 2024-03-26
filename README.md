@@ -52,6 +52,6 @@
 ---
 
 ### :fire: My Stats :
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utkarsh-gupta17&border_radius=7)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-gupta17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devkmaan&border_radius=7)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkmaan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
