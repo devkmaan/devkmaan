@@ -2,11 +2,10 @@
 <img align="right" height="40%"  width="40%" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 <div id="badges">
   <p align="center" >
-    </a>
      <img src="https://komarev.com/ghpvc/?username=devkmaan&label=Profile%20views&color=0e75b6&style=flat" alt="devkmaan" />
-   
     <a href="https://www.linkedin.com/in/dev-kumar-maan-3a6369180/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
     </p>
 </div>
 
