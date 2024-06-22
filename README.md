@@ -17,7 +17,7 @@
   <div>
     - :telescope: I’m currently pursuing my undergrad from NIT Delhi.
 <!--     <br>
-    - :seedling: Exploring Full Stack Web Development in MERN stack & NextJS. -->
+    - :seedling: Exploring Full Stack Web Development along with Machine Learning -->
     <br>
     - :zap: Apart from solving DSA problems, I also take part in Competitive Programming!!
     <br>
