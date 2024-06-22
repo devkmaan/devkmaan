@@ -16,8 +16,8 @@
 <!--   I am a <b>Full Stack Developer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. -->
   <div>
     - :telescope: I’m currently pursuing my undergrad from NIT Delhi.
-<!--     <br>
-    - :seedling: Exploring Full Stack Web Development along with Machine Learning -->
+<    <br>
+    - :seedling: Exploring Full Stack Web Development along with Machine Learning Technologies
     <br>
     - :zap: Apart from solving DSA problems, I also take part in Competitive Programming!!
     <br>
